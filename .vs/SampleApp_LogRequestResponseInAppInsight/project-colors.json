@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "968dec29-1e26-4099-a253-e48f7b81c13b": {
+      "ProjectGuid": "968dec29-1e26-4099-a253-e48f7b81c13b",
+      "DisplayName": "SampleApp_LogRequestResponseInAppInsight",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
